@@ -1,8 +1,11 @@
 # Python-Falcon-Hunter-Chess-Game
 
 **Author: Tess Ellis**
+
 **GitHub Username: tessellis**
+
 **Date: 03/17/24**
+
 **Project Course: CS162 - Introduction to Computer Science II**
 
 A Class-Based Python Chess Game Variant (Hunter Falcon Chess)
