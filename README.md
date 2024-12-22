@@ -7,7 +7,7 @@
 
 A Class-Based Python Chess Game Variant (Hunter Falcon Chess)
 
-Locations on the board will is specified using "algebraic notation", with columns labeled a-h and rows labeled 1-8, as shown in this diagram:
+Locations on the board are specified using "algebraic notation", with columns labeled a-h and rows labeled 1-8, as shown in this diagram:
 
 Special rules for this variant of chess:
 
